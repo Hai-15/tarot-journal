@@ -1,0 +1,9 @@
+{
+  "redirects": [
+    {
+      "source": "https://hai-design.top/:path*",
+      "destination": "https://www.hai-design.top/:path*",
+      "statusCode": 301
+    }
+  ]
+}
